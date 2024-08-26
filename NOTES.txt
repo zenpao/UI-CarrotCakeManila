@@ -1,0 +1,32 @@
+section
+
+container
+
+has-text-centered 
+is-gapless 
+is-vcentered
+is-centered
+
+box
+
+pt-4 pb-0
+
+pt-3
+
+is-overlay
+
+<div class="columns">
+    <div class="column is-4">
+    </div>
+    <div class="column is-4">
+    </div>
+    <div class="column is-4">
+    </div>
+</div>
+
+<html lang="en" class="has-background-white has-navbar-fixed-top">
+
+</html>
+
+<nav class="navbar has-shadow navbar is-fixed-top">
+</nav>
