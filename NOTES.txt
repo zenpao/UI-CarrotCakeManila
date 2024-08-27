@@ -30,3 +30,7 @@ is-overlay
 
 <nav class="navbar has-shadow navbar is-fixed-top">
 </nav>
+
+div class="buttons is-centered">
+<input type="submit" name="submit" class="button is-normal is-rounded is-focused" value="Extract Text">
+</div>
